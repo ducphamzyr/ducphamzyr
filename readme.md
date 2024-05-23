@@ -92,7 +92,4 @@
 </div>
 <br clear="both">
 <br clear="both">
-<br clear="both">
-<br clear="both">
-<br clear="both">
 <img src="https://raw.githubusercontent.com/ducphamzyr/ducphamzyr/output/snake.svg" alt="Snake animation" />
