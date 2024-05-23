@@ -1,6 +1,5 @@
 <h2 align="left" style="color: #FF5733; font-size: 28px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">Hi 👋! My name is Duc Pham and I'm a simple man, from Vietnam</h2>
 <br />
-## <span style="color: #FF5733; font-size: 28px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">Hmmmmm 👋! You can find me throught that</span>
 <br />
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; width: 100%; max-width: 600px; background-color: #f0f0f0; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <a href="t.me/dckzyr" target="_blank" style="margin: 5px;">
