@@ -58,3 +58,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"
     alt="github logo" />
 </div>
+<div align="left">
+  <a href="https://www.instagram.com/tie.dck/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=tie.dck&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://www.facebook.com/PhTienDuck" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=PhTienDuck&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+  </a>
+  <a href="t.me/dckzyr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dckzyr&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+  </a>
+  <a href="https://x.com/ZyrMaster" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ZyrMaster&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=dckzyr&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  <img src="https://img.shields.io/static/v1?message=tduck.contact@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</div>
