@@ -6,7 +6,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ducphamzyr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
     alt="languages graph" />
   <img style="margin-left: 10px;" height="150" src="https://i.imgflip.com/65efzo.gif" />
-  <div align="left">
+  <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo" />
