@@ -58,3 +58,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"
     alt="github logo" />
 </div>
+<h2 align="left" style="color: #FF5733; font-size: 28px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">Hi 👋! My name is Zyr and I'm a simple man, from Vietnam</h2>
