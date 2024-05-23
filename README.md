@@ -76,7 +76,10 @@
 <br clear="both">
 
 ###
-
+<div align="center">
+![snake animation](https://github.com/ducphamzyr>/ducphamzyr/blob/output/github-contribution-grid-snake2.svg)
+</div>
+###
 <div align="center">
   <img src="https://profile-counter.glitch.me/ducphamzyr/count.svg?"  />
 </div>
