@@ -91,6 +91,6 @@
   <img src="https://profile-counter.glitch.me/ducphamzyr/count.svg?" />
 </div>
 <br clear="both">
-_____________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________
 <br clear="both">
 <img src="https://raw.githubusercontent.com/ducphamzyr/ducphamzyr/output/snake.svg" alt="Snake animation" />
