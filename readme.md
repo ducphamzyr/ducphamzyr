@@ -91,6 +91,7 @@
   <img src="https://profile-counter.glitch.me/ducphamzyr/count.svg?" />
 </div>
 <br clear="both">
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31qzmlnx2p2exflp3heo2n3gcz7u)
 ____________________________________________________________________________________________________________________________________________
 <br clear="both">
 <img src="https://raw.githubusercontent.com/ducphamzyr/ducphamzyr/output/snake.svg" alt="Snake animation" />
