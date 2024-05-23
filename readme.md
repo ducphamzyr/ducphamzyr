@@ -54,3 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"
     alt="github logo" />
 </div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ducphamzyr/count.svg?" />
+</div>
