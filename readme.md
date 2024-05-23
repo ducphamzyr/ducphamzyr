@@ -1,3 +1,6 @@
+<h2 align="left" style="color: #FF5733; font-size: 28px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">Hi 👋! My name is Zyr and I'm a simple man, from Vietnam</h2>
+
+
 <div align="left">
   <img align="left" height="150" src="https://i.imgflip.com/65efzo.gif" />
   <img align="right" height="150"
