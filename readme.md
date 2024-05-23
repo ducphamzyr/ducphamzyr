@@ -20,14 +20,14 @@
         src="https://img.shields.io/static/v1?message=tie.dck&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
         height="35" alt="instagram logo" />
     </a>
-    <img
-      src="https://img.shields.io/static/v1?message=tduck.contact@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
-      height="35" alt="gmail logo" style="margin: 5px;" />
-    <a href="https://www.facebook.com/PhTienDuck" target="_blank" style="margin: 5px;">
       <img
         src="https://img.shields.io/static/v1?message=PhTienDuck&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge"
         height="35" alt="facebook logo" />
     </a>
+        <img
+      src="https://img.shields.io/static/v1?message=tduck.contact@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+      height="35" alt="gmail logo" style="margin: 5px;" />
+    <a href="https://www.facebook.com/PhTienDuck" target="_blank" style="margin: 5px;">
   </div>
 
 <br />
