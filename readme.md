@@ -58,12 +58,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"
     alt="github logo" />
 </div>
+
+
 <div style="height: 20px;"></div>
-<div style="height: 20px;"></div>
-<div style="height: 20px;"></div>
-<div>
-  <!-- Container cho mạng xã hội -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; width: 100%; max-width: 600px; background-color: #f0f0f0; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; width: 100%; max-width: 600px; background-color: #f0f0f0; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <a href="t.me/dckzyr" target="_blank" style="margin: 5px;">
       <img
         src="https://img.shields.io/static/v1?message=Dckzyr&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
@@ -91,5 +90,3 @@
         height="35" alt="facebook logo" />
     </a>
   </div>
-</div>
-
