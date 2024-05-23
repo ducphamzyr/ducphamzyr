@@ -1,14 +1,10 @@
 <h2 align="left" style="color: #FF5733; font-size: 28px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">Hi 👋! My name is Zyr and I'm a simple man, from Vietnam</h2>
-
-
 <div align="left">
   <img align="left" height="150" src="https://i.imgflip.com/65efzo.gif" />
   <img align="right" height="150"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ducphamzyr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
     alt="languages graph" />
 </div>
-<br>
-<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"
     alt="csharp logo" />
@@ -58,4 +54,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"
     alt="github logo" />
 </div>
-<h2 align="left" style="color: #FF5733; font-size: 28px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">Hi 👋! My name is Zyr and I'm a simple man, from Vietnam</h2>
