@@ -1,4 +1,36 @@
 <h2 align="left" style="color: #FF5733; font-size: 28px; font-weight: bold; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">Hi 👋! My name is Zyr and I'm a simple man, from Vietnam</h2>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; width: 100%; max-width: 600px; background-color: #f0f0f0; padding: 10px; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <a href="t.me/dckzyr" target="_blank" style="margin: 5px;">
+      <img
+        src="https://img.shields.io/static/v1?message=Dckzyr&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
+        height="35" alt="telegram logo" />
+    </a>
+    <img
+      src="https://img.shields.io/static/v1?message=dckzyr&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
+      height="35" alt="discord logo" style="margin: 5px;" />
+    <a href="https://x.com/ZyrMaster" target="_blank" style="margin: 5px;">
+      <img
+        src="https://img.shields.io/static/v1?message=ZyrMaster&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge"
+        height="35" alt="twitter logo" />
+    </a>
+    <a href="https://www.instagram.com/tie.dck/" target="_blank" style="margin: 5px;">
+      <img
+        src="https://img.shields.io/static/v1?message=tie.dck&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
+        height="35" alt="instagram logo" />
+    </a>
+    <img
+      src="https://img.shields.io/static/v1?message=tduck.contact@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+      height="35" alt="gmail logo" style="margin: 5px;" />
+    <a href="https://www.facebook.com/PhTienDuck" target="_blank" style="margin: 5px;">
+      <img
+        src="https://img.shields.io/static/v1?message=PhTienDuck&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge"
+        height="35" alt="facebook logo" />
+    </a>
+  </div>
+
+
+
 <div align="left">
   <img align="left" height="150" src="https://i.imgflip.com/65efzo.gif" />
   <img align="right" height="150"
